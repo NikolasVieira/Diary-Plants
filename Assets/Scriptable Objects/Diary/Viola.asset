@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d2bf53f921ee64381294f7bb2e1633, type: 3}
+  m_Name: Viola
+  m_EditorClassIdentifier: 
+  Artwork: {fileID: 21300000, guid: c98697f335d087946b6a633ded134866, type: 3}
+  NameCommon: Amor-perfeito
+  NameCientific: Viola tricolor
+  Description: "\xC9 uma flor bienal selvagem eurasi\xE1tica, \xE9 uma pequena planta
+    rasteira que atinge no m\xE1ximo 15 cm de altura, com flores de cerca de 1,5
+    cm de di\xE2metro. \n\nCresce nos prados e nas fazendas abandonadas, principalmente
+    em solos \xE1cidos ou neutros. \n\n\xC9 geralmente encontrada onde h\xE1 sombra
+    parcial. Floresce de Abril a Setembro. \n\nAs flores da viola tricolor ou amores
+    perfeitos podem ser roxas, azuis, amarelas ou brancas. \n\n\xC9 hermafrodita
+    e autof\xE9rtil, polinizada pelas abelhas."
